@@ -67,6 +67,7 @@
     <Compile Include="SoundIOSampleRateRange.cs" />
     <Compile Include="SoundIOChannelAreas.cs" />
     <Compile Include="MarshalExtensions.cs" />
+    <Compile Include="StreamPlayExtension.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="libs\libsoundio.so">
