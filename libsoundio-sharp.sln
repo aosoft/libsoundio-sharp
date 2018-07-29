@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sio-microphone", "example\s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sio-record", "example\sio-record\sio-record.csproj", "{67D7DB65-0E52-4863-AAE8-70EEFF0525AC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "sio-fsharpplay", "example\sio-fsharpplay\sio-fsharpplay.fsproj", "{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +74,14 @@ Global
 		{67D7DB65-0E52-4863-AAE8-70EEFF0525AC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67D7DB65-0E52-4863-AAE8-70EEFF0525AC}.Release|x64.ActiveCfg = Release|x64
 		{67D7DB65-0E52-4863-AAE8-70EEFF0525AC}.Release|x64.Build.0 = Release|x64
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Debug|x64.ActiveCfg = Debug|x64
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Debug|x64.Build.0 = Debug|x64
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Release|x64.ActiveCfg = Release|Any CPU
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +91,7 @@ Global
 		{248A6554-6018-44AE-A40C-DA1740AAB9AA} = {FE744C16-1D89-4040-8ED0-41653B27B6C8}
 		{DB2CEF34-9F9F-4AC7-8057-CC33BEB49D2C} = {FE744C16-1D89-4040-8ED0-41653B27B6C8}
 		{67D7DB65-0E52-4863-AAE8-70EEFF0525AC} = {FE744C16-1D89-4040-8ED0-41653B27B6C8}
+		{41FA99F2-6517-4DFB-A25E-0C5203DF3AA9} = {FE744C16-1D89-4040-8ED0-41653B27B6C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0BCC94CF-BBCB-4B94-83D7-E044E2CD1D46}
