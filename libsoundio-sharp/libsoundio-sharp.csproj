@@ -62,6 +62,7 @@
     <Compile Include="SoundIOOutStream.cs" />
     <Compile Include="SoundIOChannelArea.cs" />
     <Compile Include="SoundIOInStream.cs" />
+    <Compile Include="SoundIOOutStreamUtil.cs" />
     <Compile Include="SoundIORingBuffer.cs" />
     <Compile Include="SoundIODeviceAim.cs" />
     <Compile Include="SoundIOSampleRateRange.cs" />
